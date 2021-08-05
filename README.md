@@ -1,4 +1,4 @@
-<!-- PROJECT LOGO -->
+<!-- PROJECT LOGO
 <br />
 <p align="center">
   <h1 align="center">Developer's Portfolio ✨</h1>
@@ -214,4 +214,4 @@ Novas contribuições e revisões na tradução são muito bem vindas!
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/hashirshoaeb/home.svg)](https://starchart.cc/hashirshoaeb/home)
+[![Stargazers over time](https://starchart.cc/hashirshoaeb/home.svg)](https://starchart.cc/hashirshoaeb/home) -->
